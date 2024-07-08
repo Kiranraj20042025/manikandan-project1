@@ -1,0 +1,17 @@
+#m{
+    color: red;
+}
+body{
+    background-color: rgb(205, 255, 255);
+}
+#a{
+    background: linear-gradient(90deg,red,yellow,blue);
+    text-decoration: underline;
+    font-style: oblique;
+    color: green;
+}
+img{
+    border-radius: 550px 0px 550px 0px;
+    background: linear-gradient(90deg,black,grey,white);
+    background-color: black;
+}
